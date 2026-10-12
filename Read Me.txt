@@ -1,2 +1,11 @@
-This is a read me file for my java application.
-I am happy to be a java programmer. 
+conceptual level describes the relationship between entities but hides the physical storage
+
+solution template is used to display links to relevant information while working on the management studio environment
+
+
+Microsoft SQL server is basically used for creating web based reports stored based on data stored in a ware house
+
+Data base tuning advisor helps administrators tune and analyze the performance of the server
+
+Object explorer to details helps to the details of the data base object in the SQL server
+
