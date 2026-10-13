@@ -1,4 +1,4 @@
-public class EvenNumber{
+public class EvenNumbers{
 	public static void main(String [] args){
 		int i = 1;
 		

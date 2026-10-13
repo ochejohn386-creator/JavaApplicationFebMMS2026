@@ -3,6 +3,9 @@ public class IfElseIf{
 	public static void main(String [] args ){
 		Scanner scan = new Scanner (System.in);
 		
+		int i = 1;
+		while(i <= 5){
+		
 		System.out.println("------------------------------------------\n");
 		System.out.print("Enter your name: ");
 		String name = scan.nextLine();
@@ -49,6 +52,8 @@ public class IfElseIf{
 		}
 		else{
 			System.out.println("Score must be > 0 and <= 100");
+		}
+		i++'
 		}
 		
 	}
