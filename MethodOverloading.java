@@ -56,7 +56,7 @@ public class MethodOverloading{
 	}
 	
 	public static int shape(int l, int b){
-		int perimeter = 2*(l+b);
+		int perimeter = 2*(length+breadth);
 		
 		return perimeter;
 	}
